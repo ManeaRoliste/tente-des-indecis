@@ -1,0 +1,41 @@
+{
+    "name": "tente-des-indecis",
+    "title": "La Tente des Indécis",
+    "description": "Une carte représentant la Tente des Indécis, accompagnée d'aides de jeu et d'intérêts scénaristiques, notamment tournés autour du personnage de l'Indécis.",
+    "version": "1.0.0",
+    "author": "Manea",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9.245",
+    "packs": [
+        {
+            "name": "tente-des-indecis-scenes",
+            "label": "Tente des Indécis Scènes",
+            "path": "./packs/tente-des-indecis-scenes.db",
+            "entity": "Scene",
+            "type": "Scene"
+        },
+        {
+            "name": "la-tente-des-indecis-tables-aleatoires",
+            "label": "Tente des Indécis Tables aléatoires",
+            "path": "./packs/la-tente-des-indecis-tables-aleatoires.db",
+            "entity": "RollTable",
+            "type": "RollTable"
+        },
+        {
+            "name": "la-tente-des-indecis-musiques",
+            "label": "Tente des Indécis Musiques",
+            "path": "./packs/la-tente-des-indecis-musiques.db",
+            "entity": "Playlist",
+            "type": "Playlist"
+        },
+        {
+            "name": "la-tente-des-indecis-aides-de-jeu",
+            "label": "Tente des Indécis Aides de jeu",
+            "path": "./packs/la-tente-des-indecis-aides-de-jeu.db",
+            "entity": "JournalEntry",
+            "type": "JournalEntry"
+        }
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
