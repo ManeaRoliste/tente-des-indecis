@@ -36,6 +36,6 @@
             "type": "JournalEntry"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/ManeaRoliste/tente-des-indecis/main/tente-des-indecis/module.json",
-    "download": "https://github.com/ManeaRoliste/tente-des-indecis/blob/main/tente-des-indecis.zip?raw=true"
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
   }
